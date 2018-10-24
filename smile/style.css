@@ -1,0 +1,13 @@
+.grey{
+  background-color: rgb(182, 182, 182)
+}
+.border{
+  border-color: rgba(0, 0, 0, 0.829);
+  border: solid;
+}
+.height{
+  height: 55px;
+}
+.purple{
+  background-color: blueviolet;
+}
