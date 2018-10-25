@@ -1,0 +1,29 @@
+.theme-color{
+  background-image: linear-gradient(white,yellow);
+}
+.mainImage{
+  width: 400px;
+  height: 300px;
+}
+.white{
+  background-color: white;
+}
+.secondImage{
+  width: 530px;
+  height: auto;
+}
+.ninjaSize{
+  font-size: 60px;
+}
+.iconSize{
+  width: 200px;
+}
+.greenText{
+  color: rgb(0, 182, 0)
+}
+.yellow{
+  background-color: yellow;
+}
+.darkYellow{
+  background-color: rgb(252, 165, 4)
+}
